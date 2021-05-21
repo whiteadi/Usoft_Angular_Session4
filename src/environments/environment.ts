@@ -3,7 +3,7 @@
 // The list of file replacements can be found in `angular.json`.
 
 export const environment = {
-  production: false.valueOf,
+  production: false,
   apiUrl: 'http://localhost:8112/TravelTables/travel',
   user: 'TRAVEL99',
   password: 'TRAVEL99'
